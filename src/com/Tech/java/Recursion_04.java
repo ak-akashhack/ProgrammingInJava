@@ -1,3 +1,6 @@
+
+// n to the pawer of x
+
 package com.Tech.java;
 
 public class Recursion_04 {

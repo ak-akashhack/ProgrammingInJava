@@ -1,3 +1,6 @@
+
+// Find The Fist occurance and last occurance in the given String
+
 package com.Tech.java;
 
 public class Recursion_06 {
