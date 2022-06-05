@@ -14,6 +14,8 @@ public class Stack_01 {
         animals.push("HORSE");
         animals.push("CAT");
 
+        System.out.println(animals);
+        animals.remove("DOG");
         System.out.println("Stack : " + animals);
         System.out.println(animals.peek());
         System.out.println(animals.add("ELEPHANT"));
